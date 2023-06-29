@@ -15,3 +15,4 @@ build/btka/localpycs/pyimod03_ctypes.pyc
 build/btka/localpycs/pyimod04_pywin32.pyc
 build/btka/localpycs/struct.pyc
 dist/btka.exe
+dist/KeepAlive_win.exe
