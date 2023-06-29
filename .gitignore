@@ -1,0 +1,17 @@
+test.py
+build/btka/Analysis-00.toc
+build/btka/base_library.zip
+build/btka/btka.exe.manifest
+build/btka/btka.pkg
+build/btka/EXE-00.toc
+build/btka/PKG-00.toc
+build/btka/PYZ-00.pyz
+build/btka/PYZ-00.toc
+build/btka/warn-btka.txt
+build/btka/xref-btka.html
+build/btka/localpycs/pyimod01_archive.pyc
+build/btka/localpycs/pyimod02_importers.pyc
+build/btka/localpycs/pyimod03_ctypes.pyc
+build/btka/localpycs/pyimod04_pywin32.pyc
+build/btka/localpycs/struct.pyc
+dist/btka.exe
