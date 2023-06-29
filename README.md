@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Bluetooth Keep-Alive</title>
-</head>
-<body>
   <h1>Bluetooth Keep-Alive</h1>
 
   <h2>keepalive.py</h2>
@@ -102,5 +95,3 @@
   <h2>License</h2>
 
   <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more information.</p>
-</body>
-</html>
