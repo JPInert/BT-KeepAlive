@@ -1,1 +1,1 @@
-pyinstaller --noconsole --add-data "icon.ico;." --icon=icon.ico --onefile btka.py
+pyinstaller --noconsole --add-data "icon.ico;." --icon=icon.ico --onefile keepalive_win.py

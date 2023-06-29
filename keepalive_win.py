@@ -36,7 +36,7 @@ def resource_path(relative_path):
 # Kill process on exit
 def exit_action(icon, item):
     icon.stop()
-    subprocess.call(["taskkill", "/f", "/im", "btka.exe"])
+    subprocess.call(["taskkill", "/f", "/im", "keepalive_win.exe"])
 
 # Include icon image
 icon_image = Image.open(resource_path("icon.ico"))
