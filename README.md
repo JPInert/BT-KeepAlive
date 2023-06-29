@@ -82,7 +82,7 @@
   <pre><code>pip install pyinstaller</code></pre>
 
   <ol start="2">
-    <li>Navigate to the directory where the <code>keepalive_win.py</code> script is located.</li>
+    <li>Navigate to the directory where the <code>keepalive_win.py</code> script and the icon.ico files are located.</li>
     <li>Run the following command to create the standalone executable:</li>
   </ol>
 
