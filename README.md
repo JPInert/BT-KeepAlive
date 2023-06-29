@@ -1,7 +1,7 @@
 <h1 align="center">KeepAlive Scripts</h1>
 
 <p align="center">
-  <strong>Prevent Bluetooth Speakers from Turning Off due to Inactivity</strong>
+  <strong>Prevent Bluetooth speakers from turning off due to inactivity</strong>
 </p>
 
 <h2>Overview</h2>
